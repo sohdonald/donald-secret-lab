@@ -85,5 +85,3 @@ function (e) {
     }
 });
 
-dog||cat
-
